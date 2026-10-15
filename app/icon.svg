@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>Truth &amp; Dare</title>
+  <rect width="512" height="512" rx="112" fill="#17102B"/>
+  <g transform="rotate(-8 158 256)">
+    <rect x="58" y="130" width="200" height="252" rx="36" fill="#38BDF8" stroke="#000" stroke-width="12"/>
+    <rect x="96" y="180" width="124" height="36" rx="8" fill="#17102B"/>
+    <rect x="140" y="180" width="36" height="150" rx="8" fill="#17102B"/>
+  </g>
+  <g transform="rotate(8 354 256)">
+    <rect x="254" y="130" width="200" height="252" rx="36" fill="#FF4D6D" stroke="#000" stroke-width="12"/>
+    <path fill="#17102B" fill-rule="evenodd" d="M292 180 H340 C392 180 416 208 416 255 C416 302 392 330 340 330 H292 Z M328 213 V297 H340 C364 297 380 282 380 255 C380 228 364 213 340 213 Z"/>
+  </g>
+</svg>
